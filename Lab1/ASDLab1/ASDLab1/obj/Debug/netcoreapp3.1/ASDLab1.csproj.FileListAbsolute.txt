@@ -1,0 +1,13 @@
+D:\Дз\АСД\Lab1\ASDLab1\ASDLab1\bin\Debug\netcoreapp3.1\ASDLab1.exe
+D:\Дз\АСД\Lab1\ASDLab1\ASDLab1\bin\Debug\netcoreapp3.1\ASDLab1.deps.json
+D:\Дз\АСД\Lab1\ASDLab1\ASDLab1\bin\Debug\netcoreapp3.1\ASDLab1.runtimeconfig.json
+D:\Дз\АСД\Lab1\ASDLab1\ASDLab1\bin\Debug\netcoreapp3.1\ASDLab1.runtimeconfig.dev.json
+D:\Дз\АСД\Lab1\ASDLab1\ASDLab1\bin\Debug\netcoreapp3.1\ASDLab1.dll
+D:\Дз\АСД\Lab1\ASDLab1\ASDLab1\bin\Debug\netcoreapp3.1\ASDLab1.pdb
+D:\Дз\АСД\Lab1\ASDLab1\ASDLab1\obj\Debug\netcoreapp3.1\ASDLab1.csproj.AssemblyReference.cache
+D:\Дз\АСД\Lab1\ASDLab1\ASDLab1\obj\Debug\netcoreapp3.1\ASDLab1.AssemblyInfoInputs.cache
+D:\Дз\АСД\Lab1\ASDLab1\ASDLab1\obj\Debug\netcoreapp3.1\ASDLab1.AssemblyInfo.cs
+D:\Дз\АСД\Lab1\ASDLab1\ASDLab1\obj\Debug\netcoreapp3.1\ASDLab1.csproj.CoreCompileInputs.cache
+D:\Дз\АСД\Lab1\ASDLab1\ASDLab1\obj\Debug\netcoreapp3.1\ASDLab1.dll
+D:\Дз\АСД\Lab1\ASDLab1\ASDLab1\obj\Debug\netcoreapp3.1\ASDLab1.pdb
+D:\Дз\АСД\Lab1\ASDLab1\ASDLab1\obj\Debug\netcoreapp3.1\ASDLab1.genruntimeconfig.cache
